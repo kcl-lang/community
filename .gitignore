@@ -1,0 +1,43 @@
+/build/
+.vs/
+.vscode/
+.idea/
+
+# Mac OS X files
+.DS_Store
+
+/venv/
+
+# Coverage
+.coverage
+.coverage.*
+/cover
+/scripts/cover
+
+/result
+
+coverage.xml
+TEST-kclvm.xml
+
+/go-test-coverprofile.*
+
+# Benchmark
+.benchmarks
+
+# Code check
+.code_check
+
+/_output
+	
+# Rust
+*.o
+*.a
+*.so
+*.orig
+/target
+/*/target
+/*/*/target
+/**/target
+
+# KCLVM cache
+.kclvm
