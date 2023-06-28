@@ -14,8 +14,8 @@ KCL is an open-source project started by [Ant Group](https://www.antgroup.com/) 
 
 ## Other documents
 
-- [Community Roles](ROLES.md) - describes the roles individuals can assume within the KCL community.
-- [Blogs](https://kcl-lang.io/blog)
+- [Community Roles](ROLES.md) describes the roles individuals can assume within the KCL community.
+- [Blogs](https://kcl-lang.io/blog) has regular content on release notes, technical articles, events, etc.
 
 ## Contributing
 
