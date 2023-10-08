@@ -2,6 +2,8 @@
 
 This document describes the set of roles individuals may have within the KCL community.
 
+![](./roles.png)
+
 ## User
 
 A ***user*** is someone that uses KCL. They contribute to KCL projects by providing feedback to developers in the form of bug reports and feature suggestions. Users participate in the KCL community by helping other users.
