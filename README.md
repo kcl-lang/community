@@ -31,7 +31,13 @@ Held every biweekly Thursday interval 20:00 GMT+8 (Beijing Time). The latest mee
 
 ## Contact
 
-- [Slack](https://kcl-lang.slack.com/)
+### Slack
+
+1. Join the CNCF workspace: [https://communityinviter.com/apps/cloud-native/cncf](https://communityinviter.com/apps/cloud-native/cncf)
+2. Join the kcl channel in the CNCF workspace: [https://cloud-native.slack.com/archives/C05TC96NWN8](https://cloud-native.slack.com/archives/C05TC96NWN8)
+
+### DingTalk
+
 - [钉钉(DingTalk ID 42753001)](https://h5.dingtalk.com/circle/healthCheckin.html?cbdbhh=qwertyuiop&dtaction=os&4ebe6=d3d59&corpId=ding707e3346ab188ded2040d0a6270bd858)
 
 ![ding-talk](dingding-talk.jpg)
