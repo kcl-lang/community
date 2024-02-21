@@ -38,6 +38,6 @@ Held every biweekly Thursday interval 20:00 GMT+8 (Beijing Time). The latest mee
 
 ### DingTalk
 
-- [钉钉(DingTalk ID 42753001)](https://h5.dingtalk.com/circle/healthCheckin.html?cbdbhh=qwertyuiop&dtaction=os&4ebe6=d3d59&corpId=ding707e3346ab188ded2040d0a6270bd858)
+- 钉钉(DingTalk ID 42753001
 
 ![ding-talk](dingding-talk.jpg)
