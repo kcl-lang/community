@@ -41,3 +41,8 @@ Held every biweekly Thursday interval 20:00 GMT+8 (Beijing Time). The latest mee
 - 钉钉(DingTalk ID 42753001
 
 ![ding-talk](dingding-talk.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkcl-lang%2Fcommunity.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkcl-lang%2Fcommunity?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkcl-lang%2Fcommunity.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkcl-lang%2Fcommunity?ref=badge_large)
